@@ -5,6 +5,7 @@
 ## فهرست پروژه‌های انجام شده
 
 + [کار با فایل‌های CSV در پایتون](https://github.com/alimoameri/jadi-python-course-project-solutions/tree/main/15.Working-With-Data-Files)
++ [وب اسکریپینگ در پایتون](https://github.com/alimoameri/jadi-python-course-project-solutions/tree/main/13.Web-Scraping)
 
 ---
 > [!NOTE]  
