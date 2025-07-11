@@ -5,6 +5,7 @@
 ## فهرست پروژه‌های انجام شده
 
 + [عملگرهای مقایسه‌ای](https://github.com/alimoameri/jadi-python-course-project-solutions/tree/main/04.Comparison-Operators)
++ [دکوراتورها](https://github.com/alimoameri/jadi-python-course-project-solutions/tree/main/10.Decorators)
 + [وب اسکریپینگ](https://github.com/alimoameri/jadi-python-course-project-solutions/tree/main/13.Web-Scraping)
 + [کار با فایل‌های CSV](https://github.com/alimoameri/jadi-python-course-project-solutions/tree/main/15.Working-With-Data-Files)
 
